@@ -48,7 +48,7 @@ public class CheckoutProcess {
             String itemName = selectItem1.getText();
             selectItem1.click();
             System.out.println("Selected a mobile phone from the filtered list.");
-
+            //
             WebElement priceElement = wait.until(ExpectedConditions.visibilityOfElementLocated(
                     By.xpath("//*[@id=\"mainContent\"]/div[1]/div[3]/div/div/div/span")));
             String itemPrice = priceElement.getText();

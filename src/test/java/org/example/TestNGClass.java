@@ -13,7 +13,7 @@ import java.time.Duration;
 public class TestNGClass {
     WebDriver driver;
     WebDriverWait wait;
-
+    //
     @BeforeClass
     public void setupBrowser() {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Aakifah Asger\\IdeaProjects\\chromedriver\\chromedriver-win64\\chromedriver.exe");

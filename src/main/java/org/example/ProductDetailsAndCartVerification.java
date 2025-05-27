@@ -47,7 +47,7 @@ public class ProductDetailsAndCartVerification {
                     By.cssSelector(".btn-submit")));
             applyButton.click();
             System.out.println("Filter criteria confirmed and applied.");
-
+            //
             // Pick the first listed phone
             WebElement selectItem1 = wait.until(ExpectedConditions.elementToBeClickable(
                     By.cssSelector(".brwrvr__item-card:nth-child(1) .bsig__title .textual-display")));
