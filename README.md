@@ -168,13 +168,4 @@ For questions or issues:
 - Create an issue in the GitHub repository
 - Contact: ahlak7981@gmail.com
 
-
-## 🏷️ Version History
-
-- **v1.0.0** - Initial release with core automation features
-- **v1.1.0** - Added cross-browser support and parallel execution
-- **v1.2.0** - Enhanced reporting and data parameterization
-
----
-
 **Note**: This is an educational project for automation testing demonstration. Always respect website terms of service and implement appropriate delays to avoid overwhelming servers.
